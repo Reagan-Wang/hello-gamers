@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial", "Tutorial.csproj", "{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{C3B87E7E-A18F-44CD-A4EE-6C6E5975DFCA}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56220458-7D02-4CFF-BD39-EF8143B623EA}
+	EndGlobalSection
+EndGlobal
