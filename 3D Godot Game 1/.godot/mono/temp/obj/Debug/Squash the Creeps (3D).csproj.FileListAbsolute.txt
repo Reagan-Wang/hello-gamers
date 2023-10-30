@@ -1,0 +1,17 @@
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\Squash the Creeps (3D).deps.json
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\Squash the Creeps (3D).runtimeconfig.json
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\Squash the Creeps (3D).dll
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\Squash the Creeps (3D).pdb
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).csproj.AssemblyReference.cache
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).AssemblyInfoInputs.cache
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).AssemblyInfo.cs
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).csproj.CoreCompileInputs.cache
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).csproj.CopyComplete
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).dll
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\refint\Squash the Creeps (3D).dll
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).pdb
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\Squash the Creeps (3D).genruntimeconfig.cache
+C:\Users\reaga\OneDrive\Desktop\hello-gamers\3D Godot Game 1\.godot\mono\temp\obj\Debug\ref\Squash the Creeps (3D).dll

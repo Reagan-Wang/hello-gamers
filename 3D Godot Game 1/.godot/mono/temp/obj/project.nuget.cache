@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRxIcfbYssNTh1TQJeYaSLhJXXXqQbVuCOx3QE9nmgElZb3XfiQ60dW7+WpdKFBROnv0ieaU8f8bpu8DFuOE/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\reaga\\OneDrive\\Desktop\\hello-gamers\\3D Godot Game 1\\Squash the Creeps (3D).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reaga\\.nuget\\packages\\godot.sourcegenerators\\4.1.2\\godot.sourcegenerators.4.1.2.nupkg.sha512",
+    "C:\\Users\\reaga\\.nuget\\packages\\godotsharp\\4.1.2\\godotsharp.4.1.2.nupkg.sha512",
+    "C:\\Users\\reaga\\.nuget\\packages\\godotsharpeditor\\4.1.2\\godotsharpeditor.4.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
