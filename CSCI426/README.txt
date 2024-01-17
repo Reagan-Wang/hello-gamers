@@ -1,0 +1,1 @@
+A folder for weekly prototypes made during CSCI426
